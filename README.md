@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-  <a href="https://blog.anheyu.com/">
+  <a href="https://blog.wrbjoker.top/">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=一个有趣的人分享有趣的事.;console.log(%22Hello%EF%BC%8Cworld%22)">
   </a>
 </h1>
@@ -11,21 +11,14 @@
 
 <!-- 个人资料徽标 -->
 <div align="center">
-  <a href="https://blog.anheyu.com/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
-  <a href="https://twitter.com/anzhiyu_c"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
-  <a href="https://www.youtube.com/channel/UC1zFQPt_DccDr0pn60jzoQQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-  <a href="https://blog.csdn.net/CZW2268025923?spm=1010.2135.3001.5343"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/372204786"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-  <a href="https://www.zhihu.com/people/xi-gua-pi-pi-60"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
-<!-- 访客数统计徽标 -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=anzhiyu-c" /></div>
-
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn1.tianli0.top/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div>
+  <a href="https://blog.wrbjoker.top/"><img src="https://img.shields.io/badge/website-个人博客-blue"></a>&emsp;
+  <a href="https://space.bilibili.com/1471832978?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+<!-- 访客数统计徽标
+  <img src="https://visitor-badge.glitch.me/badge?page_id=wangruibao" /></div> -->
 
 # 🙋 Hello
 
-欢迎来到我的主页 😝，github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
+欢迎来到我的主页 😝，Github 是一个很有魅力的地方 🙌，有许许多多的大佬在这里活跃，咕咕 ✋~
 
 但是记学习真的是一个很棒的习惯 💪，每次一次学习别人的东西转变成为自己的，都是一次成长，了解为什么要这么做，为什么不这么做 ⚡
 
